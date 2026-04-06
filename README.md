@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/ZeCrCandido/ZeCrCandido/blob/main/assets/spotify.Spotify.html.j2">
+## Song
+
+![ZeCrCandido](assets/spotify.Spotify.html.j2)
