@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Song
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/song/sunset-jesus/1440834615"></iframe>
+<div style="left: 0; width: 100%; height: 175px; position: relative;"><iframe src="https://embed.music.apple.com/us/album/stories/1440834059?i=1440834615" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="encrypted-media *; fullscreen *; clipboard-write *;"></iframe></div>
