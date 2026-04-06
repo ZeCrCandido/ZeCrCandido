@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src=>
+<img src="https://github.com/ZeCrCandido/ZeCrCandido/blob/main/assets/spotify.Spotify.html.j2">
