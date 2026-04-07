@@ -57,6 +57,7 @@ Zod
 
 ---
 
+<!---
 ## Now Playing 🎵
 
 <div align="center">
@@ -66,8 +67,8 @@ Zod
 </a>
 
 </div>
-
 ---
+-->
 
 ## Languages & Tools
 
