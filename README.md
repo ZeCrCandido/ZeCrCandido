@@ -57,7 +57,6 @@ Zod
 
 ---
 
-<!---
 ## Now Playing 🎵
 
 <div align="center">
@@ -66,9 +65,7 @@ Zod
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hhalupmn3b7yoqpxdguv7p5kau&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=false&mode=dark" width="400"/>
 </a>
 
-</div>
----
--->
+## </div>
 
 ## Languages & Tools
 
