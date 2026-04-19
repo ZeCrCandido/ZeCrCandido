@@ -59,7 +59,7 @@ Zod
 
 ## Now Playing 🎵
 
-<!-->
+<!--
 <div align="center">
 
 <a href="https://open.spotify.com/user/31hhalupmn3b7yoqpxdguv7p5kau23">
@@ -68,6 +68,7 @@ Zod
 
 </div>
 -->
+
 ## Languages & Tools
 
 <div align="center">
